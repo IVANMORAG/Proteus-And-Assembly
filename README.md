@@ -4,18 +4,15 @@
 
 Este repositorio contiene una colección de proyectos desarrollados en **Proteus** utilizando **código ensamblador** para microcontroladores. Cada proyecto incluye simulaciones, esquemas de PCB y, en algunos casos, modelos 3D de los circuitos. El objetivo es ofrecer ejemplos educativos sobre la implementación de diversos circuitos y sistemas digitales utilizando ensamblador.
 
-## Proyectos
-
-1. **Prender LED**
-   - Un circuito sencillo que demuestra cómo encender un LED utilizando ensamblador y un microcontrolador. El diseño incluye la simulación en Proteus y el esquema del PCB.
+## Proyectos destacados
    
-2. **Compuertas Lógicas en Ensamblador**
+1. **Compuertas Lógicas en Ensamblador**
    - Simulación de compuertas lógicas como AND, OR y NOT programadas en ensamblador. El proyecto muestra cómo realizar operaciones lógicas utilizando instrucciones a nivel de bits.
    
-3. **Giro de Motor con Botones en Ensamblador**
+2. **Giro de Motor con Botones en Ensamblador**
    - Este proyecto controla el giro de un motor usando dos botones para cambiar su dirección. Incluye el código en ensamblador, la simulación en Proteus y el diseño del circuito impreso.
    
-4. **Simulación de Dos Semáforos con Ensamblador**
+3. **Simulación de Dos Semáforos con Ensamblador**
    - Simula el funcionamiento de dos semáforos utilizando ensamblador, representando el ciclo de luces (rojo, amarillo, verde) para controlar el tráfico de manera eficiente. Incluye el diseño 3D y PCB.
 
 ## Instrucciones
